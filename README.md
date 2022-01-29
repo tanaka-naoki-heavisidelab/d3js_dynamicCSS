@@ -1,4 +1,4 @@
-![dynamicCSS](https://user-images.githubusercontent.com/93065464/151650997-148c9c74-eb80-44c8-a18c-532008f02b23.gif)
+![output](https://user-images.githubusercontent.com/93065464/151651387-17d466e6-3ab0-4af5-8137-5fc9856d9220.gif)
 
 svelte-app@1.0.0
 ├── @rollup/plugin-commonjs@17.1.0
